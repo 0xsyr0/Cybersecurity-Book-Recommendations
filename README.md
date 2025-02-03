@@ -15,7 +15,13 @@ This repository is about books I recommend in terms of cybersecurity.
 | Attribution of Advanced Persistent Threats: How to Identify the Actors Behind Cyber-Espionage 1st ed. 2020 Edition | https://a.co/d/dddsYKh |
 | Operationalizing Threat Intelligence: A guide to developing and operationalizing cyber threat intelligence programs | https://a.co/d/23Ujg9g |
 | Mastering Cyber Intelligence: Gain comprehensive knowledge and skills to conduct threat intelligence for effective system defense | https://a.co/d/hCFw8ok |
-| Tribe of Hackers Security Leaders: Tribal Knowledge from the Best in Cybersecurity Leadership 1st Edition | https://a.co/d/5xTGhkX |
+| Tribe of Hackers Security Leaders: Tribal Knowledge from the Best in Cybersecurity Leadership 1st Edition | https://a.co/d/5xTGhkX | https://a.co/d/ecbYiFY |
+
+## AI / ML
+
+| Name | URL |
+| --- | --- |
+| Adversarial AI Attacks, Mitigations, and Defense Strategies: A cybersecurity professional's guide to AI attacks, threat modeling, and securing AI with MLSecOps |
 
 ## Penetration Testing
 
