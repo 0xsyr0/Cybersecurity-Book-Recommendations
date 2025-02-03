@@ -21,7 +21,7 @@ This repository is about books I recommend in terms of cybersecurity.
 
 | Name | URL |
 | --- | --- |
-| Adversarial AI Attacks, Mitigations, and Defense Strategies: A cybersecurity professional's guide to AI attacks, threat modeling, and securing AI with MLSecOps |
+| Adversarial AI Attacks, Mitigations, and Defense Strategies: A cybersecurity professional's guide to AI attacks, threat modeling, and securing AI with MLSecOps | https://a.co/d/gCwyYId |
 
 ## Penetration Testing
 
