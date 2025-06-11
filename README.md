@@ -6,6 +6,19 @@
 
 This repository is about books I recommend in terms of cybersecurity.
 
+## Table of Contents
+
+- [Security Operations Center](#security-operations-center)
+- [AI / ML](#ai-ml)
+- [Penetration Testing](#penetration-testing)
+- [Red Teaming](#red-teaming)
+- [Blue Teaming](#blue-teaming)
+- [Purple Teaming](#purple-teaming)
+- [Forensics](#forensics)
+- [Bug Bounty](#bug-bounty)
+- [Development](#development)
+- [Cybersecurity in General](#cybersecurity-in-general)
+
 ## Security Operations Center
 
 | Name | URL |
@@ -72,6 +85,12 @@ This repository is about books I recommend in terms of cybersecurity.
 | PTFM: Purple Team Field Manual | https://a.co/d/h9PwUbw |
 | Hands on Hacking: Become an Expert at Next Gen Penetration Testing and Purple Teaming | https://a.co/d/9Ji4O5W |
 | Gray Hat Hacking: The Ethical Hacker's Handbook, Sixth Edition 6th | https://a.co/d/eS9EzMG |
+
+## Forensics
+
+| Name | URL |
+| --- | --- |
+| Forensic Team Field Manual (FTFM) | https://a.co/d/4FayCzi |
 
 ## Bug Bounty
 
