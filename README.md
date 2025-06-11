@@ -9,7 +9,7 @@ This repository is about books I recommend in terms of cybersecurity.
 ## Table of Contents
 
 - [Security Operations Center](#security-operations-center)
-- [AI / ML](#ai-ml)
+- [AI / ML](#ai--ml)
 - [Penetration Testing](#penetration-testing)
 - [Red Teaming](#red-teaming)
 - [Blue Teaming](#blue-teaming)
