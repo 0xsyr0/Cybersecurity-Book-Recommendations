@@ -59,6 +59,7 @@ This repository is about books I recommend in terms of cybersecurity.
 | Rtfm: Red Team Field Manual | https://a.co/d/8Tdj2l0 |
 | RTFM: Red Team Field Manual v2 | https://a.co/d/i1SlxxR |
 | Red Team Development and Operations: A practical guide | https://a.co/d/dETyEaw |
+| Red Team Engineering | https://nostarch.com/red-team |
 | Cybersecurity Attacks – Red Team Strategies: A practical guide to building a penetration testing program having homefield advantage 1st | https://a.co/d/99yuqFR |
 | Hands-On Red Team Tactics | https://a.co/d/7JRlZkh |
 | Tribe of Hackers Red Team: Tribal Knowledge from the Best in Offensive Cybersecurity 1st Edition  | https://a.co/d/bRkN9Su |
@@ -109,6 +110,9 @@ This repository is about books I recommend in terms of cybersecurity.
 | Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters 2nd Edition | https://a.co/d/3yq06Nn |
 | Gray Hat C#: A Hacker's Guide to Creating and Automating Security Tools | https://a.co/d/i5FBwdi |
 | Black Hat Go: Go Programming For Hackers and Pentesters | https://a.co/d/4ugktSV |
+| VX Underground Black Mass: Volume 1 | https://a.co/d/crHMYXR |
+| VX Underground Black Mass: Volume 2 | https://a.co/d/jl4KuNH |
+| VX Underground Black Mass: Volume 3 | https://a.co/d/73nGtel |
 
 ## Cybersecurity in General
 
