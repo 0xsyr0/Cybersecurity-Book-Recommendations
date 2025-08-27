@@ -47,6 +47,8 @@ This repository is about books I recommend in terms of cybersecurity.
 | The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws 2nd Edition  | https://a.co/d/3g1Q9gh |
 | Hacking APIs: Breaking Web Application Programming Interfaces | https://a.co/d/jf2SrJL |
 | Black Hat GraphQL: Attacking Next Generation APIs | https://a.co/d/ceCuepg |
+| Pentesting Azure Applications: The Definitive Guide to Testing and Securing Deployments | https://a.co/d/5MSQZCK |
+| Penetration Testing Azure for Ethical Hackers: Develop practical skills to perform pentesting and risk assessment of Microsoft Azure environments | https://a.co/d/eP1d7VB |
 | Internal Security Assessment: Field Guide: Successful Techniques To Hack Your Way To Admin | https://a.co/d/ghRyNfe |
 | Network Security Assessment: Know Your Network 3rd Edition | https://a.co/d/52OhGW2 |
 | Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation 1st Edition | https://a.co/d/40tfWju |
@@ -72,6 +74,8 @@ This repository is about books I recommend in terms of cybersecurity.
 | Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder. | https://a.co/d/c5hPna7 |
 | Practical Threat Detection Engineering: A hands-on guide to planning, developing, and validating detection capabilities | https://a.co/d/6tU89bC |
 | Effective Threat Investigation for SOC Analysts: The ultimate guide to examining various threats and attacker techniques using security logs | https://a.co/d/3pwGljB |
+| Threat Hunting in the Cloud: Defending AWS, Azure and Other Cloud Platforms Against Cyberattacks | https://a.co/d/jgchBtU |
+| Practical Threat Intelligence and Data-Driven Threat Hunting: A hands-on guide to threat hunting with the ATT&CK™ Framework and open source tools | https://a.co/d/eT05TzY |
 | Malware Data Science: Attack Detection and Attribution | https://a.co/d/2JvwJfy |
 | Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software 1st Edition | https://a.co/d/13D6kwo |
 | Cybersecurity Analyst: Strategies and Techniques for a Safer Digital Future | https://a.co/d/hArFfF6 |
