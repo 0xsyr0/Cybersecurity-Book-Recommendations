@@ -61,7 +61,7 @@ This repository is about books I recommend in terms of cybersecurity.
 | Rtfm: Red Team Field Manual | https://a.co/d/8Tdj2l0 |
 | RTFM: Red Team Field Manual v2 | https://a.co/d/i1SlxxR |
 | Red Team Development and Operations: A practical guide | https://a.co/d/dETyEaw |
-| Red Team Engineering | https://nostarch.com/red-team |
+| Red Team Engineering: The Art of Building Offensive Tools and Infrastructure | https://a.co/d/2eDXxOL |
 | Cybersecurity Attacks – Red Team Strategies: A practical guide to building a penetration testing program having homefield advantage 1st | https://a.co/d/99yuqFR |
 | Hands-On Red Team Tactics | https://a.co/d/7JRlZkh |
 | Tribe of Hackers Red Team: Tribal Knowledge from the Best in Offensive Cybersecurity 1st Edition  | https://a.co/d/bRkN9Su |
@@ -76,6 +76,7 @@ This repository is about books I recommend in terms of cybersecurity.
 | Effective Threat Investigation for SOC Analysts: The ultimate guide to examining various threats and attacker techniques using security logs | https://a.co/d/3pwGljB |
 | Threat Hunting in the Cloud: Defending AWS, Azure and Other Cloud Platforms Against Cyberattacks | https://a.co/d/jgchBtU |
 | Practical Threat Intelligence and Data-Driven Threat Hunting: A hands-on guide to threat hunting with the ATT&CK™ Framework and open source tools | https://a.co/d/eT05TzY |
+| The Definitive Guide to KQL: Using Kusto Query Language for operations, defending, and threat hunting (Business Skills) | https://a.co/d/29jUNGn |
 | Malware Data Science: Attack Detection and Attribution | https://a.co/d/2JvwJfy |
 | Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software 1st Edition | https://a.co/d/13D6kwo |
 | Cybersecurity Analyst: Strategies and Techniques for a Safer Digital Future | https://a.co/d/hArFfF6 |
@@ -88,6 +89,7 @@ This repository is about books I recommend in terms of cybersecurity.
 | Name | URL |
 | --- | --- |
 | PTFM: Purple Team Field Manual | https://a.co/d/h9PwUbw |
+| PTFM 2nd Edition: Purple Team Field Manual | https://a.co/d/g6fzCkl |
 | Hands on Hacking: Become an Expert at Next Gen Penetration Testing and Purple Teaming | https://a.co/d/9Ji4O5W |
 | Gray Hat Hacking: The Ethical Hacker's Handbook, Sixth Edition 6th | https://a.co/d/eS9EzMG |
 
