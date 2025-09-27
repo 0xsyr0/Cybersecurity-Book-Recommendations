@@ -79,6 +79,9 @@ This repository is about books I recommend in terms of cybersecurity.
 | The Definitive Guide to KQL: Using Kusto Query Language for operations, defending, and threat hunting (Business Skills) | https://a.co/d/29jUNGn |
 | Malware Data Science: Attack Detection and Attribution | https://a.co/d/2JvwJfy |
 | Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software 1st Edition | https://a.co/d/13D6kwo |
+| Evasive Malware: A Field Guide to Detecting, Analyzing, and Defeating Advanced Threats | https://a.co/d/8VJiATR |
+| Rootkits and Bootkits: Reversing Modern Malware and Next Generation Threats | https://a.co/d/61OxsKK |
+| Practical Binary Analysis: Build Your Own Linux Tools for Binary Instrumentation, Analysis, and Disassembly | https://a.co/d/12qLv2Y |
 | Cybersecurity Analyst: Strategies and Techniques for a Safer Digital Future | https://a.co/d/hArFfF6 |
 | Defensive Security Handbook: Best Practices for Securing Infrastructure 1st Edition | https://a.co/d/5R8KyeK |
 | Zero Trust Networks: Building Secure Systems in Untrusted Networks | https://a.co/d/7L0JYws |
