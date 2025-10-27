@@ -119,9 +119,6 @@ This repository is about books I recommend in terms of cybersecurity.
 | Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters 2nd Edition | https://a.co/d/3yq06Nn |
 | Gray Hat C#: A Hacker's Guide to Creating and Automating Security Tools | https://a.co/d/i5FBwdi |
 | Black Hat Go: Go Programming For Hackers and Pentesters | https://a.co/d/4ugktSV |
-| VX Underground Black Mass: Volume 1 | https://a.co/d/crHMYXR |
-| VX Underground Black Mass: Volume 2 | https://a.co/d/jl4KuNH |
-| VX Underground Black Mass: Volume 3 | https://a.co/d/73nGtel |
 
 ## Cybersecurity in General
 
@@ -129,7 +126,9 @@ This repository is about books I recommend in terms of cybersecurity.
 | --- | --- |
 | Hacking and Security: The Comprehensive Guide to Penetration Testing and Cybersecurity (Rheinwerk Computing) First Edition | https://a.co/d/3l8xiH7 |
 | Hacking: The Art of Exploitation, 2nd Edition | https://a.co/d/8IMywXk |
-| VX Underground Black Mass: Volume 1 | https://a.co/d/3r2yJ1i |
+| VX Underground Black Mass: Volume 1 | https://a.co/d/crHMYXR |
+| VX Underground Black Mass: Volume 2 | https://a.co/d/jl4KuNH |
+| VX Underground Black Mass: Volume 3 | https://a.co/d/73nGtel |
 | Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers | https://a.co/d/8bXmGs8 |
 | Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency | https://a.co/d/hm3oT41 |
 | Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World | https://a.co/d/gmaicVl |
