@@ -93,6 +93,7 @@ This repository is about books I recommend in terms of cybersecurity.
 | --- | --- |
 | PTFM: Purple Team Field Manual | https://a.co/d/h9PwUbw |
 | PTFM 2nd Edition: Purple Team Field Manual | https://a.co/d/g6fzCkl |
+| Practical Purple Teaming: The Art of Collaborative Defense | https://a.co/d/6Hbf2wv |
 | Hands on Hacking: Become an Expert at Next Gen Penetration Testing and Purple Teaming | https://a.co/d/9Ji4O5W |
 | Gray Hat Hacking: The Ethical Hacker's Handbook, Sixth Edition 6th | https://a.co/d/eS9EzMG |
 
