@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="350" height="350" src="images/cybersecurity-book-recommendations-logo.webp">
+  <img width="350" height="350" src="images/cybersecurity-book-recommendations.png">
 </p>
 
 # Cybersecurity Book Recommendations
