@@ -74,6 +74,8 @@ This repository is about books I recommend in terms of cybersecurity.
 | Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder. | https://a.co/d/c5hPna7 |
 | Practical Threat Detection Engineering: A hands-on guide to planning, developing, and validating detection capabilities | https://a.co/d/6tU89bC |
 | Effective Threat Investigation for SOC Analysts: The ultimate guide to examining various threats and attacker techniques using security logs | https://a.co/d/3pwGljB |
+| Threat Hunting Threat intelligence and EDR: A Comprehensive Guide | https://a.co/d/02BPUR7z |
+| The Foundations of Threat Hunting: Organize and design effective cyber threat hunts to meet business needs | https://a.co/d/0gBtSa4M |
 | Threat Hunting in the Cloud: Defending AWS, Azure and Other Cloud Platforms Against Cyberattacks | https://a.co/d/jgchBtU |
 | Practical Threat Intelligence and Data-Driven Threat Hunting: A hands-on guide to threat hunting with the ATT&CK™ Framework and open source tools | https://a.co/d/eT05TzY |
 | The Definitive Guide to KQL: Using Kusto Query Language for operations, defending, and threat hunting (Business Skills) | https://a.co/d/29jUNGn |
