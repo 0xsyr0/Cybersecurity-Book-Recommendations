@@ -119,6 +119,7 @@ This repository is about books I recommend in terms of cybersecurity.
 | Evading EDR: The Definitive Guide to Defeating Endpoint Detection Systems. | https://a.co/d/4soq09J |
 | Evasion Engineering: Building Custom Red Team Tools for Modern Defenses | https://a.co/d/05rxktIe |
 | Malware Development for Ethical Hackers: Learn how to develop various types of malware to strengthen cybersecurity | https://a.co/d/dLrxPrf |
+| Heavy Wizardry 101: Shellcodes, Backdoors, Droppers, and Worms | https://a.co/d/0fk4ZaGG |
 | Black Hat Bash: Creative Scripting for Hackers and Pentesters | https://a.co/d/6T3Tzm5 |
 | Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters 2nd Edition | https://a.co/d/3yq06Nn |
 | Gray Hat C#: A Hacker's Guide to Creating and Automating Security Tools | https://a.co/d/i5FBwdi |
