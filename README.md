@@ -71,6 +71,7 @@ This repository is about books I recommend in terms of cybersecurity.
 | Name | URL |
 | --- | --- |
 | Blue Team Field Manual (BTFM) (RTFM) | https://a.co/d/hCgSn1b |
+| Confronto Cibernético: Técnicas e táticas de enfrentamento e resposta a ameaças persistentes avançadas (APTs) (Portuguese) | https://confrontocibernetico.com.br/ |
 | Blue Team Handbook: Incident Response Edition: A condensed field guide for the Cyber Security Incident Responder. | https://a.co/d/c5hPna7 |
 | Practical Threat Detection Engineering: A hands-on guide to planning, developing, and validating detection capabilities | https://a.co/d/6tU89bC |
 | Effective Threat Investigation for SOC Analysts: The ultimate guide to examining various threats and attacker techniques using security logs | https://a.co/d/3pwGljB |
